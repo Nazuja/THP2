@@ -1,0 +1,96 @@
+
+#top
+{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-left: 1100px;
+    color: black
+
+}
+
+#Connexion
+{
+     
+    padding: 13px 20px;
+    background: #0f60bd;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
+#Connexion:hover 
+{
+        background: #1368e7;
+        color: rgb(216, 216, 216);
+}
+
+
+#logo {
+    max-width: 100%;
+	height: auto;
+    display: flex;
+    justify-content: center;
+    padding-top: 130px;
+    padding-bottom: 30px;
+
+}
+
+#text1
+{
+    display: flex;
+    justify-content: center;
+    margin: 3px;
+  
+}
+
+#text1:hover
+{
+   text-decoration: underline;
+   box-shadow: 1px 1px 0px rgb(110, 110, 110)
+}
+
+#chance
+
+{ 
+    display: flex;
+    justify-content: center;
+    margin: 3px;
+    padding-bottom: 230px;
+    
+}
+
+#basgauche
+
+{
+    display: flex;
+    justify-content: flex-start
+        
+}
+
+#basdroit
+
+{
+    display: flex;
+    
+    justify-content: justify;
+}
+
+
+#basbas
+{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 3px;
+        
+}
+
+#basbas1
+{
+    background-color: #ededed
+    
+}
+
